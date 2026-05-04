@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Deepak 👋
 
-<!--
-**deepak-das-1996/deepak-das-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- SQL  
+- Power BI  
+- Excel  
+- Data Cleaning & Visualization  
+
+---
+
+## 📊 Projects
+🔹 Bellabeat Dashboard (Tableau)  
+🔹 Mint Classics Sales Analysis (SQL)
+
+---
+
+## 🚀 Currently Learning
+- Advanced SQL  
+- Power BI
+- Tableau
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/deepak-das-11baa89b  
+- Tableau: https://public.tableau.com/
