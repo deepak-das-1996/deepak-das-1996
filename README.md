@@ -1,11 +1,11 @@
 # Hi, I'm Deepak 👋
 
-🎯 Aspiring Data Analyst passionate about turning raw data into meaningful insights.
+🎯 Aspiring Data Analyst focused on transforming raw data into actionable business insights.
 
 ---
 
 ## 🛠 Skills
-- SQL  
+- SQL (Joins, CTEs, Aggregations)  
 - Power BI  
 - Excel  
 - Data Cleaning & Visualization  
@@ -13,18 +13,22 @@
 ---
 
 ## 📊 Projects
-🔹 Bellabeat Dashboard (Tableau)  
-🔹 Mint Classics Sales Analysis (SQL)
+
+🔹 **Bellabeat Dashboard (Tableau)**  
+Analyzed fitness data to uncover user activity trends and built an interactive dashboard for data-driven insights.
+
+🔹 **Mint Classics Sales Analysis (SQL + Tableau)**  
+Performed inventory and sales analysis to identify overstocking and demand patterns using SQL queries and visualization.
 
 ---
 
 ## 🚀 Currently Learning
 - Advanced SQL  
-- Power BI
-- Tableau
+- Power BI  
+- Data Analytics Projects  
 
 ---
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/deepak-das-11baa89b  
-- Tableau: https://public.tableau.com/
+- Tableau Portfolio: https://public.tableau.com/
