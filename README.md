@@ -7,7 +7,8 @@
 ## 🛠 Skills
 - SQL (Joins, CTEs, Aggregations)  
 - Power BI  
-- Excel  
+- Excel
+- Tableau
 - Data Cleaning & Visualization  
 
 ---
